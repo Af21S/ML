@@ -1,1 +1,1 @@
-# Machine learning
+# Machine learning model for diabetes
